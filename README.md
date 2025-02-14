@@ -1,6 +1,6 @@
 ### **README.md**  
 
-```md
+
 # Sales Performance Analysis and Forecasting  
 
 ##  Project Overview  
@@ -13,12 +13,12 @@ This project is part of a broader analysis for Tecos Group of Companies, focusin
 - Provide actionable insights to optimize sales strategies.  
 
 ##  Data Sources  
-- **Sales Dataset:** Contains transactional data, product sales, and regional performance metrics.  
+- Sales Dataset: Contains transactional data, product sales, and regional performance metrics.  
 
 ##  Tools & Technologies  
-- **Programming:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn)  
-- **Machine Learning:** LSTM neural networks, classification models  
-- **Visualization:** Power BI, Tableau  
+- Programming: Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn)  
+- Machine Learning: LSTM neural networks, classification models  
+- Visualization: Power BI, Tableau  
 
 ##  How to Use  
 1. Clone the repository:  
@@ -49,5 +49,5 @@ Contributions are welcome! Fork this repository and submit pull requests.
 
 ##  License  
 This project is licensed under the MIT License.  
-```
+
 
