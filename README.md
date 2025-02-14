@@ -1,0 +1,2 @@
+# Sales Analysis - Telco Group of companies
+ This project extends the Tecos Group of Companies analysis by focusing on sales data. It includes extensive EDA and predictive modeling using LSTM neural networks and classification models to forecast sales trends and optimize business decisions. The results offer deep insights into revenue drivers, helping improve sales strategies and operational efficiency.
